@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="grades problem with a weighted arithmetic mean/grades problem with a weighted arithmetic mean.vcxproj" />
+</Solution>
